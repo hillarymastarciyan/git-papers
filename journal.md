@@ -1,3 +1,8 @@
+#Adding a figure here
+
+Beautiful gorgeous figure would be put somewhere here!
+
+
 #Results section 
 
 I did it, and Grace helped! :)))
